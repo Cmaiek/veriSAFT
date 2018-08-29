@@ -1,8 +1,7 @@
 from tkinter.filedialog import askopenfilename
-from tkinter import *
+import tkinter import *
 from lxml import objectify, etree
 import os
-# import pygubu
 
 #  parsuj plik JPK_VAT wskazany przez użytkownika
 filename = askopenfilename()
