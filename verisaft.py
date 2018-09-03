@@ -1,5 +1,5 @@
 from tkinter.filedialog import askopenfilename
-import tkinter import *
+from tkinter import *
 from lxml import objectify, etree
 import os
 
